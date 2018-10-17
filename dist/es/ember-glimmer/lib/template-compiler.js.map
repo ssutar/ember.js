@@ -1,0 +1,1 @@
+{"version":3,"file":"template-compiler.js","sourceRoot":"","sources":["../../../packages/ember-glimmer/lib/template-compiler.ts"],"names":[],"mappings":"AACA,OAAO,eAAe,MAAM,YAAY,CAAC;AAEzC,iBAAiB;AACjB,eAAe;IACb,MAAM;QACJ,OAAO,IAAI,eAAe,EAAE,CAAC,QAAQ,CAAC;IACxC,CAAC;CACF,CAAC"}

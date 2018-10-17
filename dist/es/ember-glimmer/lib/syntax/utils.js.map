@@ -1,0 +1,1 @@
+{"version":3,"file":"utils.js","sourceRoot":"","sources":["../../../../packages/ember-glimmer/lib/syntax/utils.ts"],"names":[],"mappings":"AAGA,MAAM,qBAAqB,IAAuB;IAChD,IAAI,IAAI,KAAK,IAAI;QAAE,OAAO,IAAI,CAAC;IAC/B,IAAI,KAAK,GAAG,IAAI,CAAC,CAAC,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,EAAE,CAAC,IAAI,GAAG,EAAE,CAAC,CAAC;IAC1C,OAAO,CAAC,KAAK,EAAE,IAAI,CAAC,CAAC,CAAC,CAAC,CAAC;AAC1B,CAAC"}
